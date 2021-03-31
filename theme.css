@@ -2053,6 +2053,7 @@ div[aria-label=USER_SETTINGS] .info-1VyQPT:last-child > div:last-child::after {
   --neb-sidebar-width: 320px;
   --margin:10px;
   --neb-version: "Nebula 3 Beta Release";
+  --neb-version-titlebar:"Discord";
   --medium-font-size:18px;
   --transition:100ms ease all;
   --long-transition:250ms ease all;
